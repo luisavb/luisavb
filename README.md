@@ -1,4 +1,4 @@
-<h1>Oi, sou Luísa Vilas Boas</h1>
+<h1>Oi, sou Luísa Vilas Boas dos Santos</h1>
 <h3>Estudante de Desenvolvimento Web na Trybe</h3>
 
 - 🌱 Estou estudando atualmente **SQL e SASS**
