@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, eu sou a Luísa Vilas Boas</h1>
-<h3 align="center">Estudante de Desenvolvimento Web na Trybe</h3>
+<h1>Oi 👋, eu sou Luísa Vilas Boas dos Santos</h1>
+<h3>Estudante de Desenvolvimento Web na Trybe</h3>
 
 - 🔭 Atualmente estou estilizando [StarWars Planets Search](https://github.com/luisavb/StarWarsPlanetsSearch)
 
