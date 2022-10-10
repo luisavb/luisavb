@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou estilizando [StarWars Planets Search](https://github.com/luisavb/StarWarsPlanetsSearch)
 
-- 🌱 Estou estudando atualmente **MongoDB**
+- 🌱 Estou estudando **MongoDB**
 
 - 📫 Contate-me no email **luisa13santos@outlook.com**
 
