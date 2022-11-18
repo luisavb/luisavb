@@ -3,9 +3,11 @@
 
 - 🔭 Atualmente estou estilizando [StarWars Planets Search](https://github.com/luisavb/StarWarsPlanetsSearch)
 
-- 🌱 Estou estudando **MongoDB**
+- 🌱 Estou estudando **MongoDB**, **SASS**
 
 - 📫 Contate-me no email **luisa13santos@outlook.com**
+
+- 🎀 Sites feitos em plataformas de desenvolvimento:  [Grupo de Pesquisa Dominium](https://www.dominiumufs.com/), [EIHC 2023](https://www.eihc2023.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
