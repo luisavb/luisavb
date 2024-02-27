@@ -1,13 +1,9 @@
 <h1>Oi 👋, eu sou Luísa Vilas Boas dos Santos</h1>
 <h3>Estudante de Desenvolvimento Web na Trybe</h3>
 
-- 🔭 Atualmente estou estilizando [StarWars Planets Search](https://github.com/luisavb/StarWarsPlanetsSearch)
-
-- 🌱 Estou estudando **MongoDB**, **SASS**
-
 - 📫 Contate-me no email **luisa13santos@outlook.com**
 
-- 🎀 Sites feitos em plataformas de desenvolvimento:  [Grupo de Pesquisa Dominium](https://www.dominiumufs.com/), [EIHC 2023](https://www.eihc2023.com/)
+- 🎀 Sites feitos em plataformas de desenvolvimento:  [Grupo de Pesquisa Dominium](https://www.dominiumufs.com/), [EIHC 2023](https://www.eihc2023.com/](https://eihc2023.wixsite.com/eihc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -75,6 +71,10 @@
 </p>
 
 <!--
+
+- 🔭 Atualmente estou estilizando [StarWars Planets Search](https://github.com/luisavb/StarWarsPlanetsSearch)
+
+- 🌱 Estou estudando **MongoDB**, **SASS**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisavb&show_icons=true&locale=en&layout=compact" alt="luisavb" /></p>
 
