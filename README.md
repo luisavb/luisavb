@@ -3,11 +3,11 @@
 
 - 📫 Contate-me no email **luisa13santos@outlook.com**
 
-- 🎀 Sites feitos em plataformas de desenvolvimento:  [Grupo de Pesquisa Dominium](https://www.dominiumufs.com/), [EIHC 2023](https://www.eihc2023.com/](https://eihc2023.wixsite.com/eihc)
+- 🎀 Sites feitos em plataformas de desenvolvimento:  [Grupo de Pesquisa Dominium](https://www.dominiumufs.com/), [EIHC 2023](https://eihc2023.wixsite.com/eihc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/luisavb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/luisavb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luisavb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/luisavb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
